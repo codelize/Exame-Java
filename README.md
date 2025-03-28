@@ -1,7 +1,7 @@
 # API de Eventos
 
 ## 📖 Descrição
-Esta aplicação é uma API RESTfull para gerenciamento de eventos, desenvolvida em Java utilizando JAX-RS e JDBC para integração com um banco de dados Oracle. A API permite realizar operações básicas de CRUD (Create, Read, Update, Delete) em uma tabela de eventos.
+Esta aplicação é uma API RESTful para gerenciamento de eventos, desenvolvida em Java utilizando JAX-RS e JDBC para integração com um banco de dados Oracle. A API permite realizar operações básicas de CRUD (Create, Read, Update, Delete) em uma tabela de eventos.
 
 
 ---
