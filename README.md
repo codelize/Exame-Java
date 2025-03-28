@@ -6,7 +6,7 @@ Esta aplicação é uma API RESTful para gerenciamento de eventos, desenvolvida 
 
 ---
 
-## 🌐 Endpoints
+## 🌐 Endpoint
 ### 1. **Cadastrar Evento**
 - **URL:** `POST /eventos`
 - **Descrição:** Adiciona um novo evento.
